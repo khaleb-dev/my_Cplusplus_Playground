@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580077695 source:c:\my_cplusplus_practice\temperature_conversion\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
