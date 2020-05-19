@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1579603133 source:c:\my_cplusplus_practice\hello_world\main.cpp
+	<iostream>
+
